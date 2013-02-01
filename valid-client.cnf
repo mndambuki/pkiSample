@@ -1,0 +1,13 @@
+[ req ]
+default_bits           = 1024
+distinguished_name     = req_distinguished_name
+prompt                 = no
+
+[ req_distinguished_name ]
+C                      = US
+ST                     = Validstate
+L                      = Legit City
+O                      = Official Company
+OU                     = Certified Organization
+CN                     = validusername
+emailAddress           = valid@example.com
