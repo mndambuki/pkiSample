@@ -1,5 +1,2 @@
-*.key
-*.csr
-*.crt
-*.pfx
-*.srl
+/certs
+/working

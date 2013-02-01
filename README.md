@@ -2,5 +2,5 @@ Just do this
 ------------
 
 ```
-cd pki && ./init.sh
+cd pki && ./generate-certs.sh
 ```
