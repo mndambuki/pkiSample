@@ -1,0 +1,13 @@
+[ req ]
+default_bits           = 1024
+distinguished_name     = req_distinguished_name
+prompt                 = no
+
+[ req_distinguished_name ]
+C                      = RU
+ST                     = Grand Duchy
+L                      = Moscow
+O                      = Mail Order Love
+OU                     = Foreign Brides Dept.
+CN                     = brides.ru
+emailAddress           = freelove@brides.ru
