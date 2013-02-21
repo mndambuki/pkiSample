@@ -13,6 +13,9 @@
   "keywords": [
     "pki"
   ],
+  "engines": {
+    "node": "~0.9"
+  },
   "author": "@naomik",
   "license": "BSD",
   "readmeFilename": "README.md"
